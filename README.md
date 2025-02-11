@@ -20,7 +20,7 @@ The objective is to utilize classes to develop an **effective bidding strategy**
   - The winning bidder **pays the second-highest bid**, regardless of whether the ad is clicked.
 - **Elimination Condition:** If a bidder’s balance falls below **-1000**, they are disqualified.
 
-## 🗂 Files & Notebooks##
+## 🗂 Files & Notebooks
 | File | Description |
 |------|------------|
 | `auction_instructions.pdf` | Detailed assignment instructions and project guidelines. |
